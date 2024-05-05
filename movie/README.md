@@ -2,8 +2,6 @@
 
 # Laravel Movies Example
 
-Code for YouTube video series: https://www.youtube.com/playlist?list=PLEhEHUEU3x5pYTjZze3fhYMB4Nl_WOHI4
-
 Demo URL: https://movies.andredemos.ca
 
 ## Installation
